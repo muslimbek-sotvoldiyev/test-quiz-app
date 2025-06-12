@@ -146,7 +146,7 @@ export default function HomePage() {
                   <h3 className="text-lg font-semibold text-white">Test Haqida</h3>
                 </div>
                 <ul className="space-y-2 text-gray-300">
-                  <li>• Jami 48 ta savol</li>
+                  <li>• Jami 50 ta savol</li>
                   <li>• Turli kategoriyalar bo'yicha</li>
                   <li>• Ochiq va yopiq savollar</li>
                   <li>• Har bir savolga javob berish majburiy</li>
